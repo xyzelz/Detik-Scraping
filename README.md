@@ -51,7 +51,7 @@ python detik.py
 ```
 
 🗣 Masukkan **kata kunci** dan jumlah artikel yang ingin diambil.  
-📁 Hasil akan tersimpan dalam folder `hasil/` dalam format `.xlsx`.
+📁 Hasil akan tersimpan dalam format `.xlsx`.
 
 ---
 
