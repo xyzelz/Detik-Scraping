@@ -22,10 +22,8 @@
 
 ```bash
 .
-├── main.py              # Program utama
-├── utils.py             # Fungsi bantu untuk scraping dan klasifikasi
+├── detik.py              # Program utama
 ├── requirements.txt     # Library yang dibutuhkan
-├── hasil/               # Output hasil scraping (Excel)
 └── README.md            # Dokumentasi ini
 ```
 
@@ -36,8 +34,8 @@
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/namakamu/detik-news-scraper.git
-cd detik-news-scraper
+git clone https://github.com/xyzelz/Detik-Scraping.git
+cd Detik-Scraping
 ```
 
 ### 2. Install dependensi
@@ -49,7 +47,7 @@ pip install -r requirements.txt
 ### 3. Jalankan
 
 ```bash
-python main.py
+python detik.py
 ```
 
 🗣 Masukkan **kata kunci** dan jumlah artikel yang ingin diambil.  
