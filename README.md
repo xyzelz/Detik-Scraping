@@ -22,7 +22,7 @@
 
 ```bash
 .
-├── detik.py              # Program utama
+├── detik.py             # Program utama
 ├── requirements.txt     # Library yang dibutuhkan
 └── README.md            # Dokumentasi ini
 ```
